@@ -12,4 +12,4 @@ Strategy:
 
 Result:
 * The accuracy is **97%**.
-* Outperformed 99.91% of competitors.
+* Outperformed **99.91%** of competitors.
