@@ -1,4 +1,4 @@
-# [Kaggle competitions]Flowers-classification
+# Flowers-classification [Kaggle competitions]
 
 Distributed training a CNN(ViT in future) to classify 104 kinds of flower pictures.
 
